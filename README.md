@@ -1,2 +1,2 @@
 # 100-Days-of-Code
-This repository is a collection of exercises from 100 Day of Code by Dr. Angela Yu
+This repository is a collection of exercises from 100 Days of Code: The Complete Python Pro Bootcamp by Dr. Angela Yu
