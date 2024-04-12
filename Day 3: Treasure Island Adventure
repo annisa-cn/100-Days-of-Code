@@ -1,5 +1,6 @@
 you can find your own ASCII Art on https://ascii.co.uk/art
 
+```
 print('''
 *******************************************************************************
           |                   |                  |                     |
@@ -22,6 +23,7 @@ ____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
 /______/______/______/______/______/______/______/______/______/______/_____ /
 *******************************************************************************
 ''')
+```
 
 Using three single quotes signifies that we're creating a multiline string, especially relevant when incorporating ASCII art into Python code.
 
